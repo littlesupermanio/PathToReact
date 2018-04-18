@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
-class Weatherlist extends Component {
+class WeatherList extends Component {
     render() {
         return (
             <table className="table table-hover">
